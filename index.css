@@ -34,10 +34,16 @@ nav{border: 2px solid;
     .media{border: 2px solid; 
     border-radius: 50%;
     width: 100px;
-    height:60;}
+    height:65;}
     
+    #linkedin {border-radius: 50%;
+    border: 2px solid;
+    width: 100px;
+    height:65;}
+    
+
     footer{bottom: 0;
-        right: 230;
+        right: 20;
     position: fixed;
     }
      
@@ -52,3 +58,4 @@ nav{border: 2px solid;
     .contact {border: solid 2px;
     background-color: rgb(168, 170, 179);}
     #submit-body {background-color: wheat;}
+   
