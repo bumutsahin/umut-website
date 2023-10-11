@@ -1,0 +1,54 @@
+nav{border: 2px solid;
+    background-color: rgba(154, 95, 95, 0.509);
+    color: aliceblue;
+    box-shadow: 0 0 12px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    right: 0;
+    left: 0;
+    align-items: center;
+    }
+    
+    #myname{left: 0;}
+    
+    
+    
+    .links {right: 0;
+    border-bottom: 1px solid white;
+    display: inline-block;
+    text-align:justify;
+    background-color: rgba(170, 122, 122, 0.166);
+    }
+    
+    main{ min-height: 100vh;
+    padding: 100px;
+    color: rgba(19, 16, 59, 0.82);
+    font-size: 20px;
+    box-shadow: 0cm;
+    background-color:cadetblue;}
+    
+    .quote{font-style: oblique;}
+    
+    .media{border: 2px solid; 
+    border-radius: 50%;
+    width: 100px;
+    height:60;}
+    
+    footer{bottom: 0;
+        right: 230;
+    position: fixed;
+    }
+     
+    body{background-color: rgb(122, 134, 183);}
+    
+    .projects {
+        border: 2px solid;
+        background-color: beige;
+    }
+    form{border: 2px solid;}
+    
+    .contact {border: solid 2px;
+    background-color: rgb(168, 170, 179);}
+    #submit-body {background-color: wheat;}
