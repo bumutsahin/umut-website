@@ -23,11 +23,17 @@ nav{border: 2px solid;
     }
     
     main{ min-height: 100vh;
-    padding: 100px;
+    padding: 10px;
     color: rgba(19, 16, 59, 0.82);
     font-size: 20px;
     box-shadow: 0cm;
-    background-color:cadetblue;}
+    background-color:cadetblue;
+    border: 2px solid;
+    text-align: center;
+    bottom: 50px;
+}
+.homepage {border: 2px solid;
+background-color: beige;}
     
     .quote{font-style: oblique;}
     
@@ -52,6 +58,9 @@ nav{border: 2px solid;
     .projects {
         border: 2px solid;
         background-color: beige;
+    }
+    #portfolio-h1 {
+        border: solid 2px beige;
     }
     form{border: 2px solid;}
     
