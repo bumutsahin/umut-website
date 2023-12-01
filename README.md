@@ -1,2 +1,2 @@
-# personal-website-part2
-Personal Website Part 2
+# umut website
+vize ödevi 
